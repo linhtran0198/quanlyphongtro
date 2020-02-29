@@ -1,0 +1,30 @@
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    margin-bottom: 10px;
+  
+}
+.form-group {
+    margin-bottom: 45px;
+}
+.badge2 {
+    padding: 2px 6px 1px 6px;
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 0.1px;
+    vertical-align: baseline;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 100px;
+}
+.badge-primary {
+    background-color: #2196F3;
+    border-color: #2196F3;
+}
+.navbar-nav > .dropdown-user img {
+    max-height: 30px !important;
+    margin-top: -2.5px;
+    border-radius: 50%;
+    width: 30px!important;
+}
